@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CST120HW02", "CST120HW02\CST120HW02.vcxproj", "{FC1FCD60-95A5-471A-883D-BB083DECF0AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CST120Q01", "CST120Q01\CST120Q01.vcxproj", "{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{FC1FCD60-95A5-471A-883D-BB083DECF0AA}.Release|x64.Build.0 = Release|x64
 		{FC1FCD60-95A5-471A-883D-BB083DECF0AA}.Release|x86.ActiveCfg = Release|Win32
 		{FC1FCD60-95A5-471A-883D-BB083DECF0AA}.Release|x86.Build.0 = Release|Win32
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Debug|x64.ActiveCfg = Debug|x64
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Debug|x64.Build.0 = Debug|x64
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Debug|x86.Build.0 = Debug|Win32
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Release|x64.ActiveCfg = Release|x64
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Release|x64.Build.0 = Release|x64
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Release|x86.ActiveCfg = Release|Win32
+		{B05FEBCC-0F1E-48E1-9905-99758F8C1CF3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
